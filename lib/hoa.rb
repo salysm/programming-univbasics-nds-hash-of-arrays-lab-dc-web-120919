@@ -10,4 +10,5 @@ BASE_HOA{
   [:chipmunks]<< "Dave",
   [:third_earthers]<< "Snarf"
   [:jetsons]<< "Astro"
+}
 end
